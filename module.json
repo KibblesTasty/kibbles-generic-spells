@@ -11,7 +11,7 @@
 			"name": "kibbles-generic-spells",
 			"label": "Kibbles' Generic Spells",
 			"path": "packs/kibbles-generic-spells.db",
-			"entity": "Items",
+			"entity": "Item",
 			"module": "kibbles-generic-spells"
 			}
 		],
