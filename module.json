@@ -6,7 +6,6 @@
 "version": "1.0.0",
 "minimumCoreVersion": "0.6.0",
 "compatibleCoreVersion":"0.7.0",
-"download":"https://github.com/KibblesTasty/kibbles-generic-spells/blob/main/kibbles-generic-spells.zip",
 "packs": [
 			{
 			"name": "kibbles-generic-spells",
@@ -32,6 +31,6 @@
 			{
 			  "name": "KibblesTasty",
 			  "url": "https://kthomebrew.com"
-				}
+			}
 		]
 }
