@@ -3,9 +3,9 @@
 "title": "Kibbles' Generic Elemental Spells",
 "description": "An expanded pack of Elemental Spells",
 "author": "KibblesTasty",
-"version": "1.2.1",
+"version": "1.2.2",
 "minimumCoreVersion": "0.6.0",
-"compatibleCoreVersion": "0.7.10",
+"compatibleCoreVersion": "0.8.6",
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-spells/main/module.json",
 "download": "https://github.com/KibblesTasty/kibbles-generic-spells/releases/download/archive/kibbles-generic-spells-main.zip",
 "keywords" : [
@@ -14,7 +14,7 @@
 "packs": [
 			{
 			"name": "kibbles-generic-spells",
-			"label": "Kibbles' Generic Spells",
+			"label": "Kibbles' Generic Elemental Spells",
 			"system": "dnd5e",
 			"path": "packs/kibbles-generic-spells.db",
 			"entity": "Item",
