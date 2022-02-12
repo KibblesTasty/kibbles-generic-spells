@@ -5,7 +5,7 @@
 "author": "KibblesTasty",
 "version": "1.3.0",
 "minimumCoreVersion": "0.6.0",
-"compatibleCoreVersion": "0.8.9",
+"compatibleCoreVersion": "9",
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-spells/main/module.json",
 "download": "https://github.com/KibblesTasty/kibbles-generic-spells/releases/download/archive/kibbles-generic-spells-main.zip",
 "keywords" : [
