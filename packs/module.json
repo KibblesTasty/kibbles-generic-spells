@@ -3,9 +3,12 @@
 "title": "Kibbles' Generic Elemental Spells",
 "description": "An expanded pack of Elemental Spells",
 "author": "KibblesTasty",
-"version": "1.6.2",
+"version": "2.0",
 "minimumCoreVersion": "0.6.0",
-"compatibleCoreVersion": "9",
+"compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  }
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-spells/main/module.json",
 "download": "https://github.com/KibblesTasty/kibbles-generic-spells/releases/download/archive/kibbles-generic-spells-main.zip",
 "keywords" : [
