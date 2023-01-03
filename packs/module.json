@@ -9,7 +9,7 @@
     "minimum": "10",
     "verified": "10.291"
   },
-"manifest": "https://github.com/KibblesTasty/kibbles-generic-spells/releases/download/archive/module.json",
+"manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-casting-compendium/main/module.json",
 "download": "https://github.com/KibblesTasty/kibbles-generic-spells/releases/download/archive/kibbles-generic-spells-main.zip",
 "keywords" : [
 			"spells"
