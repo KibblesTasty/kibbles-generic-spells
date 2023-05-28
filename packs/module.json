@@ -7,7 +7,7 @@
 "minimumCoreVersion": "0.6.0",
 "compatibility": {
     "minimum": "10",
-    "verified": "10.291"
+    "verified": "11"
   },
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-spells/main/module.json",
 "download": "https://github.com/KibblesTasty/kibbles-generic-spells/releases/download/archive/kibbles-generic-spells-main.zip",
@@ -20,6 +20,7 @@
 			"label": "Kibbles' Generic Elemental Spells",
 			"system": "dnd5e",
 			"path": "packs/kibbles-generic-spells.db",
+			"type": "Item",
 			"entity": "Item",
 			"module": "kibbles-generic-spells"
 			}
